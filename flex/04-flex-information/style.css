@@ -12,6 +12,10 @@ img {
   font-weight: 900;
 }
 
+.overall{
+  flex:display;
+  flex-direction:column;
+}
 /* do not edit this footer */
 .footer {
   position: fixed;
